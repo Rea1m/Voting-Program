@@ -1,5 +1,5 @@
 # Voting Program
-# Coded by Suhail Amjed
+# Coded by xMistx
 
 import time
 
