@@ -1,2 +1,2 @@
 # Voting-Program
-This program will determine if you are eligible to vote or not
+This is a simple program that has the capablity to determine if you are eligible to vote or not with your input!
