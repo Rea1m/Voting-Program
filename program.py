@@ -20,7 +20,7 @@ isWoman = bool(input("Yo you a woman?: "))
 # Vote Variable
 def Vote1():
     Eligibility = False
-if Age >= 18 and !isWoman:
+if Age >= 18 and not isWoman:
     print('Checking the UK Voting Database..')
     # Program will sleep for 5 seconds
     time.sleep(5)
