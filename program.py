@@ -15,7 +15,13 @@ Age = int(input("Please enter your age: "))
 Telephone = str(input("Please enter your telephone number: "))
 
 #this person a woman?!?!?!?!?!?1/1/1/?!?!?1/1/11/1/?!?!
-isWoman = bool(input("Yo you a woman?: "))
+Woman = str(input("Yo you a woman? (type no lowercase for no): "))
+
+#this is very very bad code but i could care less tbh
+if(Woman == "no"):
+    isWoman = False
+else:
+    isWoman = True
 
 # Vote Variable
 def Vote1():
